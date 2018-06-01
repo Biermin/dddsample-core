@@ -3,6 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>se.citerus</groupId>
     <artifactId>dddsample</artifactId>
+    <packaging>war</packaging>
     <name>DDDSample</name>
     <version>2.0-SNAPSHOT</version>
     <parent>
